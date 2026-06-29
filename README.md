@@ -1,4 +1,4 @@
-# PokéVault v25
+# PokéVault v25.1
 
 Pokémon card & sealed product portfolio tracker with live TCG prices, price history chart, trade analyser, and **public portfolio sharing**.
 
